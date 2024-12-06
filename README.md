@@ -1,7 +1,7 @@
 ## Hellooo, I'm Natthanicha but please call me Calla 🎀
 
-- [LinkedIn](www.linkedin.com/in/natthanicha-vongjarit-7029b327a) 
-- I'm a thai student, currently based in Paris 🧚🏻‍♀️
+I'm a thai student, currently based in Paris 
+🧚🏻‍♀️ : [LinkedIn](www.linkedin.com/in/natthanicha-vongjarit-7029b327a) 
 
 ## I'm working on 👩🏻‍💻✨
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
