@@ -2,6 +2,7 @@
 
 - Feel free to call me by my nickname, 🩷Calla🩷
 - I'm a thai student, currently based in Paris
+- A 2nd year computer science student at EPITA
 
 ## I'm working on 👩🏻‍💻✨
 
