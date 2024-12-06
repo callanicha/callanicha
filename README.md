@@ -1,6 +1,6 @@
 ## Hellooo, I'm Natthanicha VONGJARIT 🎀
 
-- Feel free to call me by my nickname, Calla
+- Feel free to call me by my nickname, 🩷Calla🩷
 - I'm a thai student, currently based in Paris
 
 ## I'm working on 👩🏻‍💻✨
