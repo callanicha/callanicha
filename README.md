@@ -21,7 +21,7 @@ Tools and version control :
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)  
 
 ## Contact me 🧚🏻‍♀️ 
-[LinkedIn](www.linkedin.com/in/natthanicha-vongjarit-7029b327a) [gmail](calla2547@gmail.com)
+![LinkedIn](www.linkedin.com/in/natthanicha-vongjarit-7029b327a) ![gmail](calla2547@gmail.com)
 
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა
