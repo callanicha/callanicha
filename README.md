@@ -1,5 +1,6 @@
-## Hellooo, I'm Natthanicha but please call me Calla 🎀
+## Hellooo, I'm Natthanicha VONGJARIT
 
+Feel free to call me by my nickname, Calla 🎀
 I'm a thai student, currently based in Paris 
 🧚🏻‍♀️ : [LinkedIn](www.linkedin.com/in/natthanicha-vongjarit-7029b327a) 
 
