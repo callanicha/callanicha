@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hellooo, I'm Natthanicha but please call me Calla 🎀
 
-<!--
-**callanicha/callanicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](www.linkedin.com/in/natthanicha-vongjarit-7029b327a) 
+- I'm a thai student, currently based in Paris 🧚🏻‍♀️
 
-Here are some ideas to get you started:
+## I'm working on 👩🏻‍💻✨
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-%23008080.svg?style=flat-square&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+૮ ˶ᵔ ᵕ ᵔ˶ ა
