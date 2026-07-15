@@ -1,12 +1,19 @@
-## Hellooo, I'm Natthanicha VONGJARIT 🎀
+## Hi there, I'm Calla 👋🏻✨
 
-- Feel free to call me by my nickname, 🩷Calla🩷
-- I'm a thai student, currently based in Paris
-- A 3rd year computer science student at EPITA
-- Passionate about data analysis, marketing insights, and how data shapes the fashion and entertainment industry
+I'm a Thai student based in Paris.
 
-## I'm working on 👩🏻‍💻✨
-- Exploring data analytics for business and marketing, with a strong interest in luxury fashion and event/entertainment trends
+- Bachelor of Computer Science at EPITA
+- Aspiring Business & Marketing Data Analyst  
+- Passionate about business insights, customer analytics, luxury beauty, and digital marketing
+
+---
+
+## What I'm working on
+
+- Data analytics for business and marketing
+- CRM & customer insights
+- Marketing dashboards & data visualization
+- Luxury beauty & consumer behavior analytics
 
 Languages : 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
